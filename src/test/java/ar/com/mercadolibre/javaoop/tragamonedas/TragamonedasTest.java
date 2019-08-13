@@ -21,11 +21,13 @@ public class TragamonedasTest {
         Assertions.assertThat(tragamonedas).isNotNull();
     }
 
+/*
     @Test
     public void ganaEntregaPremio() {
         tragamonedas.activar();
         Assertions.assertThat(tragamonedas.entregarPremio()).isTrue();
     }
+*/
 
 
 
